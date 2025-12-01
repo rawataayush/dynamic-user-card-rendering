@@ -19,6 +19,8 @@ main{
         flex-wrap: wrap;
         align-items: center;
         justify-content: center;
+        margin-top: 1rem;
+        gap: 0.5rem;
 
         .user-card {
             width: 320px;
@@ -63,7 +65,7 @@ main{
                 flex-wrap: wrap;
                 gap: 8px;
 
-                span {
+                span{
                     padding: 4px 10px;
                     background: #EEF2FF;
                     color: #4F46E5;
